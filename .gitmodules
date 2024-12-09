@@ -1,0 +1,6 @@
+[submodule "themes/hydra"]
+	path = themes/hydra
+	url = git@github.com:Arikelliott/hydra.git
+[submodule "themes/poison"]
+	path = themes/poison
+	url = https://github.com/lukeorth/poison
